@@ -11,4 +11,5 @@ For long running operations, the threadpool can fill up and it is better to spin
 Async and Await is syntactic sugar that makes calling async code more readable <br>
 
 ### Credits
-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/ <br>
+https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap <br>
